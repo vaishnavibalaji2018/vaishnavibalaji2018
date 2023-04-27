@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaishnavi Balaji
-- 👀 I’m comfortable with Python
+-   I’m comfortable with Python
 - 🌱 I’m looking to collaborate on GIS and AIML Projects
 - 📫 How to reach me : Mail me: vaishnavibalajiphd@gmail.com
 
