@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vaishnavi Balaji
-- 👀 I’m comfortable with Python(will upload all my projects in few days)
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on GIS and AIML Projects
+- 👀 I’m comfortable with Python
+- 🌱 I’m looking to collaborate on GIS and AIML Projects
 - 📫 How to reach me : Mail me: vaishnavibalajiphd@gmail.com
 
 
